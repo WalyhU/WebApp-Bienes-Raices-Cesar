@@ -11,3 +11,5 @@ Los administradores pueden controlar los clientes y crear recibos.
 ![](https://imgur.com/14vUUOf.png)
 ![](https://imgur.com/UWFFV5I.png)
 ![](https://imgur.com/8ijh9BR.png)
+
+Creado con Node.js y Handlebars. BD con MongoDB. Librerias: mongoose, morgan, passport.
